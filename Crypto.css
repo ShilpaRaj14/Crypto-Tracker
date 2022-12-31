@@ -1,0 +1,19 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+body{
+    background-color: #9a0bac;
+}
+.fix{
+    border:2px solid #b506ea;
+    border-radius: 5px;
+    background-color: #b308f1;
+    padding: 10px;
+}
+h1,
+h4{
+    color:#fffafa;
+}
