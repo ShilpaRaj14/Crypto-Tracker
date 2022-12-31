@@ -1,1 +1,1 @@
-# Crypto-Tracker
+# Crypto-currency-Tracker
